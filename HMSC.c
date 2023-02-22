@@ -31,9 +31,9 @@ void login()
 	int a=0,i=0;
     char uname[20],c=' '; 
     char pword[10],code[10];
-    char user[20]="Ritik";
+    char user[20]="Aayush";
    
-    char pass[10]="Gupta";
+    char pass[10]="Chauhan";
     
     do
 {
